@@ -1,0 +1,15 @@
+PATH
+  remote: .
+  specs:
+    freezy (0.0.1)
+      bundler
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  freezy!
